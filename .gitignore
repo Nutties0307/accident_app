@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.env
+.saferoute_secret
+uploads_tmp/
+saved_maps/
+/accident_app
+accident_app.backup_*
+accident_app.before_test
+accident_app_backup
+node_modules/
+*.gpkg
+*.pbf
